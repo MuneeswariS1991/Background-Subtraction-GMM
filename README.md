@@ -1,0 +1,2 @@
+# Background-Subtraction-GMM
+Spatiotemporal GMM for Background Subtraction with Superpixel Hierarchy. Mingliang Chen, Xing Wei, Qingxiong Yang, Qing Li, Gang Wang, and Ming-Hsuan Yang. Abstract—We propose a background subtraction algorithm using hierarchical superpixel segmentation, spanning trees and optical ﬂow. First, we generate superpixel segmentation trees using a number of Gaussian Mixture Models (GMMs) by treating each GMM asonevertex to construct spanning trees.
